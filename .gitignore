@@ -1,0 +1,6 @@
+.idea/*
+*.bak
+.svn/*
+!.gitignore
+doc/
+log/
